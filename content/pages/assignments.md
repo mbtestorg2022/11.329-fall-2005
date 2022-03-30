@@ -26,13 +26,117 @@ Generate no more than 2 pages of theoretical writing on the above topic without 
 
 All work is the courtesy of students named and are used with permission.
 
-| STUDENT NAMES | ASSIGNMENT 1 | ASSIGNMENT 2 |
-| --- | --- | --- |
-| Lara Belkind | &nbsp; | ([PDF]({{< baseurl >}}/resources/belkind_2)) |
-| Elliot Felix | ([PDF]({{< baseurl >}}/resources/felix_1)) | ([PDF]({{< baseurl >}}/resources/felix_2)) |
-| David Foxe | ([PDF]({{< baseurl >}}/resources/foxe_1)) | ([PDF]({{< baseurl >}}/resources/foxe_2)) |
-| Jennifer Mack | &nbsp; | ([PDF]({{< baseurl >}}/resources/mack_2)) |
-| Thomas Oles | ([PDF]({{< baseurl >}}/resources/oles_1)) | ([PDF]({{< baseurl >}}/resources/oles_2)) |
-| Nomita Sawhney | ([PDF]({{< baseurl >}}/resources/sawhney_1)) | ([PDF]({{< baseurl >}}/resources/sawhney_2)) |
-| Olga Touloumi | ([PDF]({{< baseurl >}}/resources/touloumi_1)) | &nbsp; |
-| Annis Whitlow | ([PDF]({{< baseurl >}}/resources/whitlow_1)) | ([PDF]({{< baseurl >}}/resources/whitlow_2))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+STUDENT NAMES
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENT 1
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENT 2
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lara Belkind
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/belkind_2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Elliot Felix
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/felix_1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/felix_2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+David Foxe
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/foxe_1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/foxe_2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jennifer Mack
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mack_2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Thomas Oles
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/oles_1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/oles_2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Nomita Sawhney
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/sawhney_1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/sawhney_2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Olga Touloumi
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/touloumi_1))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Annis Whitlow
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/whitlow_1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/whitlow_2))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
