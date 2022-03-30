@@ -5,6 +5,7 @@ description: This resource contains discourses about the construction of identit
   expressing power have thus far been confined to separate realms of inquiry.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-329-social-theory-and-the-city-fall-2005/52ad71ed6541fd89f23a0ba499259821_ssn8_whitlow.pdf
 file_type: application/pdf
+parent_uid: 25585a0b-e6a4-91b3-37f4-6f1ab74304bf
 resourcetype: Document
 title: ssn8_whitlow.pdf
 uid: 52ad71ed-6541-fd89-f23a-0ba499259821

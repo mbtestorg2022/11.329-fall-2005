@@ -4,6 +4,7 @@ description: This resource talks of authenticity, mediation, invisibility, cente
   vs. periphery (vertical/horizontal), and Boundary.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-329-social-theory-and-the-city-fall-2005/ec82b0a0a7749884c0f4ed5cef22465c_ssn5_belkind.pdf
 file_type: application/pdf
+parent_uid: 25585a0b-e6a4-91b3-37f4-6f1ab74304bf
 resourcetype: Document
 title: ssn5_belkind.pdf
 uid: ec82b0a0-a774-9884-c0f4-ed5cef22465c

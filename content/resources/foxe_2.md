@@ -6,6 +6,7 @@ description: 'This resource contains topics related to unequal vertical elevatio
   earth, force of gravity, variety in elevation, distances, and physical elevation.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-329-social-theory-and-the-city-fall-2005/34a4b85892620c988534a821aa0baabe_foxe_2.pdf
 file_type: application/pdf
+parent_uid: 35edb678-f969-e648-137e-a636318891b1
 resourcetype: Document
 title: foxe_2.pdf
 uid: 34a4b858-9262-0c98-8534-a821aa0baabe

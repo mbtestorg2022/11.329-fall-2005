@@ -5,6 +5,7 @@ description: 'This resource contains the class discussion on the paper Olga expl
   EU summit meeting, Thessaloniki."'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-329-social-theory-and-the-city-fall-2005/79b5ea8ac05d516fea4d4e1b35517552_ssn10_touloumi.pdf
 file_type: application/pdf
+parent_uid: 25585a0b-e6a4-91b3-37f4-6f1ab74304bf
 resourcetype: Document
 title: ssn10_touloumi.pdf
 uid: 79b5ea8a-c05d-516f-ea4d-4e1b35517552
